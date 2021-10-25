@@ -1,0 +1,21 @@
+Steve Nguyen
+Game idea
+My game idea is to create something that involves a scrolling game. A collective goal where to gain points by eating something. Having a nice green environment.
+
+Scenario and characters description (include placeholder graphics, drafts, references)
+References would be like Mario Bros. or Cuphead. Placeholder would be like a dragon trying to collect coins and fruits.
+
+Characters’ actions and goals
+Characters that has up, down, left, and right movement. Goals are to collect points to win by either fighting or avoiding enemies.
+
+Game Win/Lose conditions
+You win by finishing the end and lose by getting hit by enemies.
+
+Progression of levels
+There is only one level.
+
+Sources of inspiration (other games, movies, etc. that inspired your idea)
+Mario bros., hollow knight.
+
+What skills/interests you are looking for in a team mate
+Skills I require from a teammate are graphical skills, animation skills, basic coding skills.
